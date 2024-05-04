@@ -1,6 +1,6 @@
 {
 
-    "name": "『 𝗛𝗘𝗠𝗨 』",
+    "name": "『 Hero 』",
 
     "description": "A Modular telegram bot.",
 
@@ -31,21 +31,21 @@
         "BOT_TOKEN": {
 
             "description": "Your Bot token from @Botfather",
-            "value": "6665730762:AAHtRj_9PIGJcU4azpj9JpYqDpi1inegKZg"
+            "value": "6468168035:AAHXsNKC9DYYCi2q1xcMfjY_J_2kuDe6VZ4"
 
         },
 
         "API_ID": {
 
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "28528007"
+            "value": "27952989"
 
         },
 
         "API_HASH": {
 
             "description": "Your API_HASH from https://my.telegram.org/apps",
-            "value": "38464da16c80310cabc8d13952419cf3"
+            "value": "74f04808a359e9a516e955ec243613ca"
 
         }
 
